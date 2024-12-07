@@ -6,7 +6,7 @@ pygame.init()
 # Screen Dimensions
 SCREEN_WIDTH, SCREEN_HEIGHT = 800, 600
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-pygame.display.set_caption("Basic PyGame Tutorial")
+pygame.display.set_caption("Ball Simulation")
 
 # Colors (R, G, B)
 WHITE = (255, 255, 255)
